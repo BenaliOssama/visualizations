@@ -1,5 +1,5 @@
 pandas
 numpy
-jupyter,
-matplotlib
+jupyter
 plotly
+matplotlib
